@@ -1,5 +1,4 @@
-public class aplication {
-
+public class Aplication {
     //Начало выполнения 2 задания
     byte bt=127;
     short st=31000;
@@ -13,7 +12,7 @@ public class aplication {
     //Начало выполнения 3 задания
     public static float otvet(float a, float b, float c, float d){
         if (d==0) System.out.println("Делить на ноль нельзя");
-            return a*(b+(c/d));
+        return a*(b+(c/d));
     }
     //Конец выполнения 3 задания
     //Начало выполнения 4 задания
